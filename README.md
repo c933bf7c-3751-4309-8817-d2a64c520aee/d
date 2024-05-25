@@ -153,7 +153,7 @@ Pasca pak I.S menulis 3 surat terakhirnya, korban yang lain juga mulai speak up.
 ![Bang Fahri Aulia Alfarisi Harahap 2 (PUB)](Lampiran-Arsip/BAB-7/Bang%20Fahri%20Aulia%20Alfarisi%20Harahap%202%20(PUB).png)
 
 - [Bang Ahmad Saugi (PUB)](https://www.facebook.com/ahmadsaugi.gis/posts/7382616251864125)
-- 
+
 ![Bang Ahmad Saugi (PUB)](Lampiran-Arsip/BAB-7/Bang%20Ahmad%20Saugi%20(PUB).png)
 
 - [Ibu Ilma Ilhami (PUB)](https://www.facebook.com/ilma.ilhami/posts/pfbid0WSRgaivhkWFNB3swbejVwvYLHVVqn3iuk4noeTK6NfdoeDT4cv82hXbJm5uLgMn8l)
@@ -175,4 +175,4 @@ Beliau tutup akun.
 
 #### * Catatan Kontributor
 
-[/anuGrahbodi](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1874064149683193), "_Menurut saya, cukup aneh jika seorang S3 Computer Science tidak dapat melakukan coding. Bagaimanapun, selama masa studi, baik itu saat masih di jenjang sarjana, magister, maupun sampai ke doktor, pasti akan sangat sering berhadapan dengan kegiatan per-coding-an meskipun untuk meng-coding berkas-berkas sederhana. Mungkin ini hanya sesepuh saja yang memang ingin merendah, namun dengan cara yang salah, sehingga membuat netizen geram (meskipun bukan ini satu-satunya penyebabnya). Akan tetapi, sebagai kontributor yang tidak terlalu menyimak drama dari awal, Saya hanya ingin sedikit memperbaiki, menambahkan beberapa lampiran gambar pada repo, dan menampilkannya pada markdown ini untuk mempermudah pembacaan pada arsip drama. So, enjoy the gorengan, guys!_"
+[/anuGrahbodi](https://github.com/anuGrahbodi), "_Menurut saya, cukup aneh jika seorang S3 Computer Science tidak dapat melakukan coding. Bagaimanapun, selama masa studi, baik itu saat masih di jenjang sarjana, magister, maupun sampai ke doktor, pasti akan sangat sering berhadapan dengan kegiatan per-coding-an, meskipun untuk meng-coding berkas-berkas sederhana. Mungkin ini hanya sesepuh saja yang memang ingin merendah, namun dengan cara yang salah, sehingga membuat netizen geram (meskipun bukan ini satu-satunya penyebabnya). Akan tetapi, sebagai kontributor yang tidak terlalu menyimak drama dari awal, Saya hanya ingin sedikit memperbaiki, menambahkan beberapa lampiran gambar pada repo, dan menampilkannya pada markdown ini untuk mempermudah pembacaan pada arsip drama. So, enjoy the gorengan, guys!_"
