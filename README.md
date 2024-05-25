@@ -39,6 +39,7 @@ Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak 
 Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
 
 - [Status bang Alip (PUB)](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1880454602377481)
+
 ![Status bang Alip (PUB)](Lampiran-Arsip/BAB-2/Status%20bang%20Alip%20(PUB).png)
 
 ## BAB III : Gorengan Sirkel IMPHNEN
@@ -46,6 +47,7 @@ Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kala
 Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang mungkin follow bang Alip dan yang follow pak I.S langsung menggoreng di IMPHNEN. Pada awalnya ini cuma gorengan sirkel, karna konteksnya adalah "enggan ngoding" yang keterusan sampe S3 Computer Science.
 
 - [Link 1 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113874429835739/)
+
 ![Link 1 (PUB)](Lampiran-Arsip/BAB-3/Link%201%20(PUB).png)
 - [Link 2 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113872469835935/)
 ![Link 2 (PUB)](Lampiran-Arsip/BAB-3/Link%202%20(PUB).png)
