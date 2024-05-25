@@ -112,13 +112,13 @@ Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R mel
 
 - [Status Mba R (PUB)](https://www.facebook.com/bibliobookstore/posts/3638480436390737)
 
-![1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/1%20Status%20Mba%20R%20(PUB).png)
+![1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a1%20Status%20Mba%20R%20(PUB).png)
 
-![2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/2%20Status%20Mba%20R%20(PUB).png)
+![2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a2%20Status%20Mba%20R%20(PUB).png)
 
-![3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/3%20Status%20Mba%20R%20(PUB).png)
+![3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a3%20Status%20Mba%20R%20(PUB).png)
 
-![4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/4%20Status%20Mba%20R%20(PUB).png)
+![4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a4%20Status%20Mba%20R%20(PUB).png)
 
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
@@ -169,4 +169,4 @@ Beliau tutup akun.
 
 #### * Catatan Kontributor
 
-[/anuGrahbodi](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1874064149683193), "_Menurut saya, cukup aneh jika seorang S3 Computer Science tidak dapat melakukan coding. Bagaimanapun, selama masa studi, baik itu saat masih di jenjang sarjana, magister, sampai ke doktor, pasti akan sangat sering berhadapan dengan kegiatan per-coding-an meskipun untuk meng-coding berkas-berkas sederhana. Mungkin ini hanya sesepuh saja yang memang ingin merendah, namun dengan cara yang salah, sehingga membuat netizen geram (meskipun bukan ini satu-satunya penyebabnya). Akan tetapi, sebagai kontributor yang tidak terlalu menyimak drama dari awal, Saya hanya ingin menambahkan beberapa lampiran gambar pada markdown ini untuk mempermudah pembacaan pada arsip drama. So, enjoy the gorengan, guys!_"
+[/anuGrahbodi](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1874064149683193), "_Menurut saya, cukup aneh jika seorang S3 Computer Science tidak dapat melakukan coding. Bagaimanapun, selama masa studi, baik itu saat masih di jenjang sarjana, magister, sampai ke doktor, pasti akan sangat sering berhadapan dengan kegiatan per-coding-an meskipun untuk meng-coding berkas-berkas sederhana. Mungkin ini hanya sesepuh saja yang memang ingin merendah, namun dengan cara yang salah, sehingga membuat netizen geram (meskipun bukan ini satu-satunya penyebabnya). Akan tetapi, sebagai kontributor yang tidak terlalu menyimak drama dari awal, Saya hanya ingin sedikit memperbaiki, menambahkan beberapa lampiran gambar pada repo, dan menampilkannya pada markdown ini untuk mempermudah pembacaan pada arsip drama. So, enjoy the gorengan, guys!_"
