@@ -123,10 +123,15 @@ Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R mel
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
 - [Part 1 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196010468479)
+
 `Gambar tidak/ belum tersedia`
+
 - [Part 2 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196147135132)
+
 `Gambar tidak/ belum tersedia`
+
 - [Part 3 (CLOSE)](https://www.facebook.com/Irwansight1/posts/1636196803801733)
+
 `Gambar tidak/ belum tersedia`
 
 **UPDATE TERBARU:** Pak I.S sepertinya tutup akun.
@@ -148,6 +153,7 @@ Pasca pak I.S menulis 3 surat terakhirnya, korban yang lain juga mulai speak up.
 ![Bang Fahri Aulia Alfarisi Harahap 2 (PUB)](Lampiran-Arsip/BAB-7/Bang%20Fahri%20Aulia%20Alfarisi%20Harahap%202%20(PUB).png)
 
 - [Bang Ahmad Saugi (PUB)](https://www.facebook.com/ahmadsaugi.gis/posts/7382616251864125)
+- 
 ![Bang Ahmad Saugi (PUB)](Lampiran-Arsip/BAB-7/Bang%20Ahmad%20Saugi%20(PUB).png)
 
 - [Ibu Ilma Ilhami (PUB)](https://www.facebook.com/ilma.ilhami/posts/pfbid0WSRgaivhkWFNB3swbejVwvYLHVVqn3iuk4noeTK6NfdoeDT4cv82hXbJm5uLgMn8l)
