@@ -112,13 +112,13 @@ Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R mel
 
 - [Status Mba R (PUB)](https://www.facebook.com/bibliobookstore/posts/3638480436390737)
 
-![1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a1%20Status%20Mba%20R%20(PUB).png)
+![a1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a1%20Status%20Mba%20R%20(PUB).png)
 
-![2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a2%20Status%20Mba%20R%20(PUB).png)
+![a2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a2%20Status%20Mba%20R%20(PUB).png)
 
-![3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a3%20Status%20Mba%20R%20(PUB).png)
+![a3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a3%20Status%20Mba%20R%20(PUB).png)
 
-![4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a4%20Status%20Mba%20R%20(PUB).png)
+![a4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/a4%20Status%20Mba%20R%20(PUB).png)
 
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
