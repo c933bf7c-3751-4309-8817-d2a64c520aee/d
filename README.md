@@ -1,4 +1,4 @@
-# Kata Pengantar
+# Gorengan
 
 "Gorengan yang tidak digoreng, bukanlah gorengan namanya"
 
@@ -49,13 +49,21 @@ Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang 
 - [Link 1 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113874429835739/)
 
 ![Link 1 (PUB)](Lampiran-Arsip/BAB-3/Link%201%20(PUB).png)
+
 - [Link 2 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113872469835935/)
+
 ![Link 2 (PUB)](Lampiran-Arsip/BAB-3/Link%202%20(PUB).png)
+
 - [Link 3 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114269093129606/)
+
 ![Link 3 (PUB)](Lampiran-Arsip/BAB-3/Link%203%20(PUB).png)
+
 - [Link 4 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114557746434074/)
+
 ![Link 4 (PUB)](Lampiran-Arsip/BAB-3/Link%204%20(PUB).png)
+
 - [Link 5 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113878483168667/)
+
 ![Link 5 (PUB)](Lampiran-Arsip/BAB-3/Link%205%20(PUB).png)
 
 ## BAB IV : Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding
@@ -63,14 +71,23 @@ Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang 
 Karena terlalu banyak yang share, akhirnya gorengan keluar sirkel IMPHNEN. Dan akhirnya dibahas dan digoreng oleh para sepuh koding seperti:
 
 - [Pak Eko Kurniawan Khannedy (PUB)](https://www.facebook.com/khannedy/posts/10230886121114038)
+
 ![Pak Eko Kurniawan Khannedy (PUB)](Lampiran-Arsip/BAB-4/Pak%20Eko%20Kurniawan%20Khannedy%20(PUB).png)
+
 - [Pak Sandhika Galih (PUB)](https://www.facebook.com/reel/3697512123897044)
+
 ![Pak Sandhika Galih (PUB)](Lampiran-Arsip/BAB-4/Pak%20Sandhika%20Galih%20(PUB).png)
+
 - [Pak Erico Darmawan Handoyo (PUB)](https://www.facebook.com/erico.darmawan.h/posts/10231236276108306)
+
 ![Pak Erico Darmawan Handoyo (PUB)](Lampiran-Arsip/BAB-4/Pak%20Erico%20Darmawan%20Handoyo%20(PUB).png)
+
 - [Pak Muhammad Azamuddin (PUB)](https://www.facebook.com/script.holic/posts/7738703162889536)
+
 ![Pak Muhammad Azamuddin (PUB)](Lampiran-Arsip/BAB-4/Pak%20Muhammad%20Azamuddin%20(PUB).png)
+
 - [Pak Ega Radiegtya (PUB)](https://www.facebook.com/ega.radiegtya/posts/10226429400422950)
+
 ![Pak Ega Radiegtya (PUB)](Lampiran-Arsip/BAB-4/Pak%20Ega%20Radiegtya%20(PUB).png)
 
 ## BAB V : Gorengan sampai ke para akademisi dan guru besar
@@ -78,10 +95,15 @@ Karena terlalu banyak yang share, akhirnya gorengan keluar sirkel IMPHNEN. Dan a
 Mungkin karena para praktisi sepuh koding mulai membahas dan goreng menggoreng isu ini, membuat para akademisi dan guru besar turun gunung.
 
 - [Pak Romi Satria Wahono (PUB)](https://www.facebook.com/romisatriawahono/posts/10229127437262861)
+
 ![Pak Romi Satria Wahono (PUB)](Lampiran-Arsip/BAB-5/Pak%20Romi%20Satria%20Wahono%20(PUB).png)
+
 - [Pak Rinaldi Munir (PUB)](https://www.facebook.com/rinaldi.munir/posts/8020630298004925)
+
 ![Pak Rinaldi Munir (PUB)](Lampiran-Arsip/BAB-5/Pak%20Rinaldi%20Munir%20(PUB).png)
+
 - [Pak Anggi Andriyadi (PUB)](https://www.facebook.com/anggi.andriyadi/posts/10228765463594687)
+
 ![Pak Anggi Andriyadi (PUB)](Lampiran-Arsip/BAB-5/Pak%20Anggi%20Andriyadi%20(PUB).png)
 
 ## BAB VI : Awal yang menjadi akhir
@@ -89,11 +111,14 @@ Mungkin karena para praktisi sepuh koding mulai membahas dan goreng menggoreng i
 Mba R adalah salah satu orang dekat pak I.S sewaktu pak I.S kuliah S3. Mba R melihat isu gorengan yang kian memanas akhirnya ia juga angkat bicara.
 
 - [Status Mba R (PUB)](https://www.facebook.com/bibliobookstore/posts/3638480436390737)
-![1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/1%20Status%20Mba%20R%20(PUB).png)
-![2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/2%20Status%20Mba%20R%20(PUB).png)
-![3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/3%20Status%20Mba%20R%20(PUB).png)
-![4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/4%20Status%20Mba%20R%20(PUB).png)
 
+![1 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/1%20Status%20Mba%20R%20(PUB).png)
+
+![2 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/2%20Status%20Mba%20R%20(PUB).png)
+
+![3 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/3%20Status%20Mba%20R%20(PUB).png)
+
+![4 Status Mba R (PUB)](Lampiran-Arsip/BAB-6/4%20Status%20Mba%20R%20(PUB).png)
 
 Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membuat klarifikasi dan ingin berhenti main FB. Tapi orang-orang mulai tidak percaya dan kurang puas dengan tindakan bapak I.S yang kurang bertanggung jawab. Ada 3 part tulisannya:
 
@@ -111,16 +136,26 @@ Dan mungkin karena panik, entah merasa terpojok oleh gorengan, Pak I.S pun membu
 Pasca pak I.S menulis 3 surat terakhirnya, korban yang lain juga mulai speak up.
 
 - [Bang Ahmad Naziri (PUB)](https://www.facebook.com/share/p/cA8jCkDzQ2HVTott/?mibextid=oFDknk)
+
 ![Bang Ahmad Naziri (PUB)](Lampiran-Arsip/BAB-7/Bang%20Ahmad%20Naziri%20(PUB).png)
+
 - [Bang Fahri Aulia Alfarisi Harahap 1 (PUB)](https://www.facebook.com/fahriauliaalfarisi.harahap/posts/7297437470382529)
+
 ![Bang Fahri Aulia Alfarisi Harahap 1 (PUB)](Lampiran-Arsip/BAB-7/Bang%20Fahri%20Aulia%20Alfarisi%20Harahap%201%20(PUB).png)
+
 - [Bang Fahri Aulia Alfarisi Harahap 2 (PUB)](https://www.facebook.com/fahriauliaalfarisi.harahap/posts/7299251130201163)
+
 ![Bang Fahri Aulia Alfarisi Harahap 2 (PUB)](Lampiran-Arsip/BAB-7/Bang%20Fahri%20Aulia%20Alfarisi%20Harahap%202%20(PUB).png)
+
 - [Bang Ahmad Saugi (PUB)](https://www.facebook.com/ahmadsaugi.gis/posts/7382616251864125)
 ![Bang Ahmad Saugi (PUB)](Lampiran-Arsip/BAB-7/Bang%20Ahmad%20Saugi%20(PUB).png)
+
 - [Ibu Ilma Ilhami (PUB)](https://www.facebook.com/ilma.ilhami/posts/pfbid0WSRgaivhkWFNB3swbejVwvYLHVVqn3iuk4noeTK6NfdoeDT4cv82hXbJm5uLgMn8l)
+
 ![Ibu Ilma Ilhami (PUB)](Lampiran-Arsip/BAB-7/Ibu%20Ilma%20Ilhami%20(PUB).png)
+
 - [Rudy Qothrun Nada (PUB)](https://www.facebook.com/rudy.Qothrun/posts/pfbid02G3d6xJqHs3vKq5YEAYyHQVQ9WJRLSJvEfLZX3q6YDwqhW2wLmjgdXVzTR53wbctSl)
+
 ![Rudy Qothrun Nada (PUB)](Lampiran-Arsip/BAB-7/Rudy%20Qothrun%20Nada%20(PUB).png)
 
 ## BAB VIII : Kesimpulan
