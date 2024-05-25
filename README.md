@@ -2,8 +2,6 @@
 
 "Gorengan yang tidak digoreng, bukanlah gorengan namanya"
 
-![1 Status Mba R (PUB)](./Lampiran-Arsip/BAB-6/1%20Status%20Mba%20R%20(PUB).png)
-
 Izinkan saya membuat rekap drama S3.
 
 Catatan:
@@ -33,8 +31,6 @@ Sebelum drama dimulai, bang Alip diblokir tanpa penjelasan oleh pak I.S. Sementa
 
 `Gambar tidak/ belum tersedia`
 
-
-
 ## BAB II : Awal mula digoreng
 
 Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak bisa ngoding, namun dia tetap bangga karna baginya seorang akademis S3 Computer Science gak perlu ngoding.
@@ -43,22 +39,22 @@ Pak I.S memposting sebuah pernyataan secara terang-terangan kalau dirinya tidak 
 Lalu, bang Alip memposting screenshot pernyataan itu, pada caption terlihat kalau bang Alip hanya memohon untuk di-unblokir.
 
 - [Status bang Alip (PUB)](https://www.facebook.com/muhammadalif.ramadhan.37/posts/1880454602377481)
-![Status bang Alip (PUB)](Lampiran_Arsip/BAB-2/Status%20bang%20Alip%20(PUB).png)
+![Status bang Alip (PUB)](Lampiran-Arsip/BAB-2/Status%20bang%20Alip%20(PUB).png)
 
 ## BAB III : Gorengan Sirkel IMPHNEN
 
 Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang mungkin follow bang Alip dan yang follow pak I.S langsung menggoreng di IMPHNEN. Pada awalnya ini cuma gorengan sirkel, karna konteksnya adalah "enggan ngoding" yang keterusan sampe S3 Computer Science.
 
 - [Link 1 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113874429835739/)
-![Link 1 (PUB)](Lampiran_Arsip/BAB-3/Link%201%20(PUB).png)
+![Link 1 (PUB)](Lampiran-Arsip/BAB-3/Link%201%20(PUB).png)
 - [Link 2 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113872469835935/)
-![Link 2 (PUB)](Lampiran_Arsip/BAB-3/Link%202%20(PUB).png)
+![Link 2 (PUB)](Lampiran=Arsip/BAB-3/Link%202%20(PUB).png)
 - [Link 3 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114269093129606/)
-![Link 3 (PUB)](Lampiran_Arsip/BAB-3/Link%203%20(PUB).png)
+![Link 3 (PUB)](Lampiran-Arsip/BAB-3/Link%203%20(PUB).png)
 - [Link 4 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114557746434074/)
-![Link 4 (PUB)](Lampiran_Arsip/BAB-3/Link%204%20(PUB).png)
+![Link 4 (PUB)](Lampiran-Arsip/BAB-3/Link%204%20(PUB).png)
 - [Link 5 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113878483168667/)
-![Link 5 (PUB)](Lampiran_Arsip/BAB-3/Link%205%20(PUB).png)
+![Link 5 (PUB)](Lampiran-Arsip/BAB-3/Link%205%20(PUB).png)
 
 ## BAB IV : Gorengan keluar sirkel IMPHNEN dan sampai ke para praktisi sepuh koding
 
