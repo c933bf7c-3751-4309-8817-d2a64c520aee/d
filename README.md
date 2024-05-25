@@ -2,6 +2,8 @@
 
 "Gorengan yang tidak digoreng, bukanlah gorengan namanya"
 
+![1 Status Mba R (PUB)](./Lampiran-Arsip/BAB-6/1%20Status%20Mba%20R%20(PUB).png)
+
 Izinkan saya membuat rekap drama S3.
 
 Catatan:
