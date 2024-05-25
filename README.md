@@ -48,7 +48,7 @@ Beberapa saat setelah bang Alip upload status itu, beberapa member IMPHNEN yang 
 - [Link 1 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113874429835739/)
 ![Link 1 (PUB)](Lampiran-Arsip/BAB-3/Link%201%20(PUB).png)
 - [Link 2 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1113872469835935/)
-![Link 2 (PUB)](Lampiran=Arsip/BAB-3/Link%202%20(PUB).png)
+![Link 2 (PUB)](Lampiran-Arsip/BAB-3/Link%202%20(PUB).png)
 - [Link 3 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114269093129606/)
 ![Link 3 (PUB)](Lampiran-Arsip/BAB-3/Link%203%20(PUB).png)
 - [Link 4 (PUB)](https://www.facebook.com/groups/programmerhandal/permalink/1114557746434074/)
